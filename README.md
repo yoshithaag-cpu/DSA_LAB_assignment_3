@@ -14,5 +14,6 @@ This repository contains programs and assignments related to Data Structures imp
 ## Topics Covered
 - Stack (Array & Linked List)
 - Queue (Array)
+- Parenthesis problem
 - Infix to Postfix Conversions
 - Postfix expression Evaluation
