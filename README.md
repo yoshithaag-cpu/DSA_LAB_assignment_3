@@ -1,2 +1,6 @@
-# DSA_LAB_assignment_3
-Data Structures Lab assignment 3 answers uploaded
+# Data-Structure-Assignment-Lab
+Name:Yoshithaa Sree G
+Roll No.: 4
+Admission No.: CDS/2025/0994
+Course name: Data Structures and Algorithm LAB
+
